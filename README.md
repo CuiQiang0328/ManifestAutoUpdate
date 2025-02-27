@@ -1,24 +1,26 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-27 17:02:07
+## 更新时间：2025-02-27 17:05:41
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 3371500 | 傲世修仙录| Game |
-| 3369360 | MY LITTLE MILF| Game |
-| 3378260 | 鸭鸭大冒险 (Duck Duck Adventure)| Game |
-| 3374610 | Christmas Mutilator| Game |
-| 3373730 | 隐秘任务2| Game |
-| 3346800 | Absolute-Full-Life Soundtrack| Music |
-| 3345820 | Lonely Christmas| Game |
-| 3345450 | Cosmic Ultramarine Soundtrack Vol.1| Music |
-| 3345050 | 编程模拟器| Game |
-| 3342630 | Escape From Sandhill| Game |
-| 3345500 | 饥饿的英灵殿| Game |
-| 3344790 | 眼傀公司| Game |
-| 3357130 | Figure Skating Legends| Game |
-| 3339270 | BDSM Fuel Station| Game |
-| 3341050 | Drova - Mod Tool| Tool |
-| 3356740 | Weed Simulator| Game |
-| 3361220 | Watermelon Simulator| Game |
-| 3344150 | Gift Collector [ギフトコレクター]| Game |
-| 3351690 | Gauntlet| Game |
+| 3335120 | Coconut Simulator| Game |
+| 3337500 | Waifu Simulator: Christmas Edition| Game |
+| 3332000 | 廃層| Game |
+| 3337480 | Waifu Simulator: Horem Edition| Game |
+| 3331570 | Valkeala Birds| Game |
+| 3326290 | Internet Cafe Simulator 2025| Game |
+| 3323110 | 大鹏 - The Roc 设定集| DLC |
+| 3321120 | Ambulance Driver Life VR| Game |
+| 3325130 | Year of the Ladybug: Season 1| Game |
+| 3495760 | Sex Apartment 💫 - Digital Artbook| DLC |
+| 3321110 | Vasilisa And Baba Yaga Soundtrack| Music |
+| 3495780 | Sex Apartment 💫 - Animation Pack| DLC |
+| 3316620 | Prove You Can Win| Game |
+| 3479470 | RPG Maker MZ - RPG Character Pack 16| DLC |
+| 3380740 | Boo! Are you scared? The Chests Game| Game |
+| 3381080 | Hentai Aina| Game |
+| 3382500 | A Coloring Break| Game |
+| 3379880 | 反制先锋：现代无人机战场| Game |
+| 3495770 | Sex Apartment 💫 - Wallpapers Pack| DLC |
+| 3380940 | Paw & Hop Jigsaw Quest| Game |
+| 3315730 | Broken Sword - Shadow of the Templars: Reforged Game Manual and Travel Guide| DLC |
