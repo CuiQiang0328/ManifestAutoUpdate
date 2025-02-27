@@ -1,34 +1,40 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-27 18:00:27
+## 更新时间：2025-02-27 18:05:22
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1818230 | Lodventure| Game |
-| 1816520 | Motorbike Traffic Splash| Game |
-| 1817630 | 青春叙曲原声带| Music |
-| 1814670 | 暗黑的克罗薇| Game |
-| 1818570 | Threes!| Game |
-| 1816950 | Nobodies: After Death| Game |
-| 1814170 | Lingo| Game |
-| 1818650 | The Pathless - Original Soundtrack| Music |
-| 1808080 | Te Encontré| Game |
-| 1809040 | Base Dune| Game |
-| 1808060 | Obama Maze| Game |
-| 2360370 | The Art of CHKN| DLC |
-| 2360250 | Asterix & Obelix Slap Them All! 2| Game |
-| 1805130 | Komorebi| Game |
-| 2359720 | 手办工坊| Application |
-| 2358420 | Madhouse Madness: Streamer's Fate| Game |
-| 2357130 | Mars Colonization| Game |
-| 2355790 | Zombie Rush| Game |
-| 2355860 | Eggstraction| Game |
-| 2353320 | N+1：失业青年新生活！| Game |
-| 2357040 | Drink And Girls| Game |
-| 1814460 | 勇者VS恶龙| Game |
-| 2351610 | 史上最色人| Game |
-| 2352500 | Sex Simulator - Girl on Girl| Game |
-| 1805040 | Implements of Hell| Game |
-| 2353511 | PAYDAY 2: Chinatown Music Pack| Music |
-| 2350020 | Start Over| Game |
-| 2349030 | B-PROJECT RYUSEI*FANTASIA| Game |
-| 2353870 | 未解案件：杀人剧本 典藏版| Game |
+| 2344510 | Pineapple on pizza Soundtrack| Music |
+| 2342120 | Ultimate Anime Jigsaw Puzzle - Artwork| DLC |
+| 2340360 | T.D.Z. 3 Dark Way of Stalker| Game |
+| 2339650 | 隐藏对象的游戏 - 罗马冒险 - 克罗诺维索尔之谜| Game |
+| 2347030 | Princess Survivors| Game |
+| 2340150 | Wojak wants Hentai| Game |
+| 2340780 | BOOK OF HOURS: Original Soundtrack| Music |
+| 2340480 | Soundodger 2 Soundtrack| Music |
+| 2336550 | 象棋派对| Game |
+| 2338510 | Sex Simulator - Office Affairs| Game |
+| 2332260 | Feed the Deep| Game |
+| 2337610 | sunny-place-3: microgods| Game |
+| 2337450 | Lkyt.| Game |
+| 2333390 | Cricket Captain 2023| Game |
+| 2331590 | 世界岛·编辑器| Game |
+| 2335050 | LIP! Lewd Idol Project Vol. 3| Game |
+| 2339410 | Epic Fantasy Battle Simulator Modding Kit| Tool |
+| 2336780 | Total Conflict: Resistance Soundtrack| Music |
+| 2341310 | 《Hi-Fi RUSH》游戏原声音乐集| Music |
+| 2331710 | Sky Survivors| Game |
+| 2331220 | 1 Million Zombies| Game |
+| 2333620 | RPG Maker MZ - Fantasy Character Pack| DLC |
+| 2328710 | Genesis of a Small God| Game |
+| 2327830 | THE CURE| Game |
+| 2331070 | Vasilisa and Baba Yaga| Game |
+| 2337040 | Wall World Original Soundtrack| Music |
+| 2328800 | Pro Basketball Manager 2024 Dataeditor| Tool |
+| 2331830 | Coral Island Soundtrack| Music |
+| 2326670 | VR Rescue Girls| Game |
+| 2328730 | Polimines 2| Game |
+| 2327790 | Sexy New Year| Game |
+| 2936270 | Gambit Shifter - Surrealm| DLC |
+| 2331060 | Gambit Shifter| Game |
+| 2326020 | Save Room - The Merchant| Game |
+| 2325190 | Cat Jigsaw Puzzle Games| Game |
