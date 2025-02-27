@@ -1,15 +1,11 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-27 12:23:38
+## 更新时间：2025-02-27 16:19:11
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1254120 | 神佑释放| Game |
-| 1534980 | 终点站：僵尸幸存者| Game |
-| 2094070 | Quest Master| Game |
-| 2720010 | Rogue Fable IV| Game |
-| 3066570 | 青天井| Game |
-| 3001070 | 逐鹿问鼎：君王成长计划/Strive for power:King Growth Program| Game |
-| 3267430 | 遗骸| Game |
-| 2578240 | 復甦之島：愛與勝利| Game |
-| 2720620 | One More Night| Game |
+| 1203220 | 永劫无间| Game |
+| 633230 | NARUTO TO BORUTO: SHINOBI STRIKER| Game |
+| 2171630 | 地心归途| Game |
+| 1036640 | RPG Developer Bakin| Application |
+| 835570 | 战意| Game |
 | 582660 | Black Desert| Game |
