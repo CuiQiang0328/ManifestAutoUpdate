@@ -1,39 +1,42 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-27 19:39:27
+## 更新时间：2025-02-27 19:44:40
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 2533830 | 无套转生-勇闯异世界就是那么简单| Game |
-| 2534020 | Dungeon Tale| Game |
-| 2531620 | RPG Maker MZ - RPG Character Pack 10| DLC |
-| 2531740 | RPG Maker MZ - Another World Heroine Generator DX for MZ| DLC |
-| 2531710 | RPG Maker MZ - Winlu Fantasy Tileset - Overworld| DLC |
-| 2530810 | Ghost In The Mirror| Game |
-| 2527880 | Undead West| Game |
-| 2525120 | 鈴集無名の丘 ～ Little Doll Queen.| Game |
-| 2520630 | Game Time Glizzys| Game |
-| 2522350 | 游戏制作创意齿轮| Application |
-| 2521290 | Chants of Sennaar Soundtrack| Music |
-| 2515300 | A Night in Prison| Game |
-| 2516750 | VR 恐龙庄园| Game |
-| 2517770 | SWORDCAR| Game |
-| 2515530 | 连眠不觉| Game |
-| 2517200 | Repair this!| Game |
-| 2513890 | The PenguinGame 2 -Lies of Penguin-| Game |
-| 2514650 | 贪婪与恐惧及其他| Game |
-| 2512920 | 蒜什么建造师| Game |
-| 2512080 | DDI Rally Championship| Game |
-| 2515920 | Sex Simulator - Beach Resort Girls| Game |
-| 2512560 | Butcher's Creek| Game |
-| 2514400 | 胡闹加油站| Game |
-| 2511450 | 寻物大师：这里没有小恐龙| Game |
-| 2510510 | 指挥官：僵尸战争| Game |
-| 2506780 | Chef Survivor| Game |
-| 2511440 | 寻物大师：这里什么都没有| Game |
-| 2505580 | Life in Middle East| Game |
-| 2517870 | Experimentation| Game |
-| 2506820 | Demonsomnia| Game |
-| 2516360 | Nonsensical Video Generator| Application |
-| 2512090 | The Political Machine 2024| Game |
-| 2506650 | Wizard with a Gun Soundtrack| Music |
-| 2507430 | 噗噗的冒险乐园音乐集| Music |
+| 2499740 | Frip and Froop's Logical Labyrinth DX| Game |
+| 2498390 | 过阴 Soundtrack| Music |
+| 2502260 | Dead Cells: Return to Castlevania Soundtrack| Music |
+| 2500440 | War Thunder: Ground Forces, Vol.2 (Original Game Soundtrack)| Music |
+| 2500430 | War Thunder: Air Forces, Vol.2 (Original Game Soundtrack)| Music |
+| 2497620 | Shadows of Doubt Soundtrack| Music |
+| 2492950 | To The Sky| Game |
+| 2493820 | RPG Maker MZ - Soldier Character Pack 2| DLC |
+| 2489460 | 守卫稻梦岛| Game |
+| 2489990 | Jeepney Simulator| Game |
+| 2488590 | Dungeons of Blood and Dream| Game |
+| 2492420 | Live Cycling Manager 2023| Game |
+| 2492290 | 电脑侦探: 确凿证据| Game |
+| 2491770 | We Need To Cook - Drug Empire Simulator| Game |
+| 2490960 | 驱灵天师| Game |
+| 2487390 | For the GHOSTs| Game |
+| 2486880 | Sex in the Sky| Game |
+| 2489650 | PRIPRI| Game |
+| 2486740 | Sledders| Game |
+| 2485750 | Midnight Scenes: A Safe Place| Game |
+| 2485540 | Never Ending Nightmare| Game |
+| 2483380 | Six nights to die| Game |
+| 2482270 | Stilt| Game |
+| 2482200 | Emergency Call 112 - The Attack Squad| Game |
+| 2494130 | Street Fighter 6 Original Soundtrack| Music |
+| 2482850 | POLARIS™ - 北极星™| Game |
+| 2480680 | Touchly Volumetric VR Video Player| Application |
+| 2482000 | 遇见你的猫| Game |
+| 2480010 | Sugar Mess| Game |
+| 2477140 | Twilight Town: A Cyberpunk FPS| Game |
+| 2476800 | 消防员康纳 - FireFighter Connor Soundtrack| Music |
+| 2478450 | Moen| Game |
+| 2479000 | Noise-o-matic| Application |
+| 2478330 | Barbie™ 友谊计划| Game |
+| 2485460 | State of Survival| Game |
+| 2477520 | Techtonica Original Soundtrack| Music |
+| 2481020 | Vampire Therapist| Game |
