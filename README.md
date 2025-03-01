@@ -1,12 +1,14 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-03-01 18:18:50
+## 更新时间：2025-03-01 19:09:36
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1455910 | 领地：种田与征战| Game |
-| 1407180 | Lawgivers II| Game |
-| 1536610 | OpenTTD| Game |
-| 206500 | AirMech| Game |
-| 2249340 | 互联网大亨| Game |
-| 3437170 | 壶中日月| Game |
-| 677340 | The Colonists| Game |
+| 2846220 | 姐姐大人同居中。～唯奈浓情蜜意的全肯定～| Game |
+| 2698460 | Shift'n Slay| Game |
+| 2959610 | Cabin Crew Life Simulator| Game |
+| 2340510 | 黄道信条| Game |
+| 3158380 | 求订阅！魔法少女莱万提亚频道：观众越多越强大| Game |
+| 3508770 | Haydee 3| Game |
+| 1544610 | Haydee 2 Soundtrack| Music |
+| 2938850 | 樱姬5| Game |
+| 2025890 | Endling - Extinction is Forever - Original Soundtrack| Music |
