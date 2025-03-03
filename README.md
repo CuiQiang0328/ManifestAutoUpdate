@@ -1,19 +1,23 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-03-03 20:20:18
+## 更新时间：2025-03-03 22:11:02
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1005950 | 大老爷 GrandLordAuto| Game |
-| 1094780 | Fisher Online| Game |
-| 1283970 | YoloMouse| Application |
-| 1677350 | EA SPORTS™ PGA TOUR™| Game |
-| 2346410 | 边境开拓者| Game |
-| 2580130 | 七界：拉菲恩圣地| Game |
-| 2730530 | 协律01：新生活| Game |
-| 2868860 | 卡牌生存：奇幻森林| Game |
-| 2538910 | 夏末白夜| Game |
-| 3059010 | 二战前线合集| Game |
-| 3196570 | 轮回之境| Game |
-| 3158380 | 求订阅！魔法少女莱万提亚频道：观众越多越强大| Game |
-| 3508770 | Haydee 3| Game |
-| 952040 | 同步音律喵赛克| Game |
+| 1000360 | Hellish Quart| Game |
+| 110800 | L.A. Noire| game |
+| 1174180 | Red Dead Redemption 2| Game |
+| 12210 | Grand Theft Auto IV: The Complete Edition| game |
+| 1677310 | In Stars And Time| Game |
+| 1835240 | Spiritfall| Game |
+| 1962890 | IN HEAT: Lustful Nights| Game |
+| 2343930 | Eyes Of War| Game |
+| 2450480 | 放置修仙世界| Game |
+| 2584650 | Girlfriend from Hell| Game |
+| 2822370 | Chocolate Factory Simulator| Game |
+| 2850380 | Device Doctor Simulator 2024| Game |
+| 2882870 | Doll Impostor| Game |
+| 3001070 | 逐鹿问鼎：君王成长计划/Strive for power:King Growth Program| Game |
+| 3500640 | 数算箱题| Game |
+| 3150440 | Laundry Store Simulator| Game |
+| 730580 | MegaRace 1| Game |
+| 700580 | Rust - Staging Branch| Beta |
