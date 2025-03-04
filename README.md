@@ -1,21 +1,19 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-03-04 12:13:09
+## 更新时间：2025-03-04 14:15:06
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1609230 | Scarlet Hollow| Game |
-| 1927100 | 三国仁义传 the Romantic of Righteousness: SanGuo| Game |
-| 2109340 | 像素游戏引擎| Application |
-| 2376580 | TRIBE NINE：战极死游| Game |
-| 2515020 | FINAL FANTASY XVI| Game |
-| 2693530 | Witching Stone| Game |
-| 2638370 | Five Nights at Freddy's: Into the Pit| Game |
-| 2704110 | 彼方的她-Aliya| Game |
-| 2720010 | Rogue Fable IV| Game |
-| 2744060 | FINAL FANTASY XVI The Rising Tide《沧海恸哭》| DLC |
-| 2744050 | FINAL FANTASY XVI Echoes of the Fallen《天空余音》| DLC |
-| 3004100 | FREEDOM WARS Remastered| Game |
-| 3003300 | 战盟桌面精灵| Game |
-| 3376250 | 九球轮盘赌| Game |
+| 1407180 | Lawgivers II| Game |
+| 1545990 | Deadeye Deepfake Simulacrum| Game |
+| 1534980 | 终点站：僵尸幸存者| Game |
+| 1775360 | 魔女与学生会：卡牌之战| Game |
+| 1790600 | 七龙珠 电光炸裂！ZERO| Game |
+| 2009240 | 生死狙击2 Test Server| Beta |
+| 206500 | AirMech| Game |
 | 2322560 | 完蛋！我被美女包围了！| Game |
-| 615530 | Love, Money, Rock'n'Roll| Game |
+| 2720010 | Rogue Fable IV| Game |
+| 2730530 | 协律01：新生活| Game |
+| 2868860 | 卡牌生存：奇幻森林| Game |
+| 2853730 | Skull and Bones| Game |
+| 3309020 | 幸运牌| Game |
+| 550650 | Black Squad| Game |
