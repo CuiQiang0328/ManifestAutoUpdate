@@ -1,24 +1,45 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-03-06 00:17:54
+## 更新时间：2025-03-06 04:54:49
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1239080 | 破门而入2：北方特遣队| Game |
-| 1426050 | Fractured Online| Game |
-| 1646790 | Striving for Light| Game |
-| 2418520 | Farm Together 2| Game |
-| 2315400 | 狭间骑士| Game |
-| 2749000 | 酒馆好时光| Game |
-| 2315020 | Froguelike| Game |
+| 1139980 | 旅者之憩 Travellers Rest| Game |
+| 1316720 | THE 8IGHT| Game |
+| 1285430 | The Link| Application |
+| 1169370 | Necesse Dedicated Server| Tool |
+| 1169040 | 奈斯启示录 Necesse| Game |
+| 1357210 | 银河文明IV| Game |
+| 1568590 | Goose Goose Duck| Game |
+| 1561960 | 罗马陨落 - Yield! Fall of Rome| Game |
+| 1592290 | PARANOIA PLACE| Game |
+| 1603180 | Mining Mechs| Game |
+| 1684010 | Sail| Game |
+| 1830430 | Grimoire Groves| Game |
+| 1989270 | Slay the Princess — The Pristine Cut| Game |
+| 1970020 | 东方妖精武踏会| Game |
+| 2060590 | Wilmot Works It Out| Game |
+| 2073250 | Rift of the NecroDancer| Game |
+| 2027190 | 东方光耀夜 ~ Lost Branch of Legend Soundtrack| Music |
+| 2001070 | 人工智能的选择 Heart of the Machine| Game |
+| 2208570 | 劫盗惊魂夜| Game |
+| 2217000 | Rivals of Aether II| Game |
+| 1940340 | Darkest Dungeon® II| Game |
+| 2346570 | 浮生游歌| Game |
+| 2336760 | Immortal Hunters| Game |
 | 2393370 | Dustgrave: A Sandbox RPG| Game |
-| 2730530 | 协律01：新生活| Game |
-| 3128740 | Beff Jezos Simulator| Game |
-| 2904000 | 咒语旅团| Game |
-| 3347670 | 黑山综合医院| Game |
-| 3437170 | 壶中日月| Game |
-| 3508770 | Haydee 3| Game |
-| 3399950 | 你的老母| Game |
+| 2418520 | Farm Together 2| Game |
+| 2441700 | UNDERDOGS| Game |
+| 2459550 | 余烬守卫 Emberward| Game |
+| 2494810 | 漆黑猎场| Game |
+| 2834600 | 我的小小人生| Game |
+| 2928500 | 无尽的休闲驾驶| Game |
+| 2957700 | 太太！我喜欢你！| Game |
+| 3107230 | Pantheon: Rise of the Fallen| Game |
+| 3172890 | Sins of a Solar Empire II - Modding Tools| Tool |
+| 366690 | Cue Club 2: Pool & Snooker| Game |
+| 3471160 | 宇宙之声 - 星舰铳犬数字原声带| Music |
 | 590830 | s&box| Game |
+| 505040 | FORTIFY| Game |
 | 611500 | Quake Champions| Game |
-| 743650 | Quake Champions PTS| Game |
+| 710230 | Urban Strife| Game |
 | 94300 | The Dream Machine| game |
