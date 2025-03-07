@@ -1,15 +1,17 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-03-07 12:13:36
+## 更新时间：2025-03-07 14:15:07
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1149460 | 翼星求生 ICARUS| Game |
-| 1609230 | Scarlet Hollow| Game |
-| 2232880 | 灵兽江湖| Game |
-| 2884590 | 狩魔战潮| Game |
-| 2868860 | 卡牌生存：奇幻森林| Game |
-| 2955220 | 卡牌迷境| Game |
-| 2905790 | 超光速计划| Game |
-| 3376080 | 天空城幻想| Game |
+| 1245250 | 盛世繁荣：皇冠之重| Game |
+| 1260320 | 猛兽派对| Game |
+| 2116060 | Epic Auto Towers| Game |
+| 2389040 | ShapeHero Factory 涂鸦英雄工厂| Game |
+| 2624280 | 420BLAZEIT2: GAME OF THE YEAR -=Dank Dreams and Goated Memes=- [#wow/11 Like and Subscribe] Poggerz Edition| Game |
+| 2659710 | Carnaval Simulator| Game |
+| 2851110 | Golden Warden| Game |
+| 3469850 | 噩梦摇篮：献花于你| Game |
 | 3393750 | 我的人生| Game |
-| 715010 | Diamo XL| Game |
+| 384300 | CPUCores :: Maximize Your FPS| Application |
+| 3376250 | 九球轮盘赌| Game |
+| 603960 | Star of Providence| Game |
