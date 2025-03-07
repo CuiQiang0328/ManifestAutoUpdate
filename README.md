@@ -1,22 +1,15 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-03-07 10:51:08
+## 更新时间：2025-03-07 12:13:36
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1461980 | 九州：立志| Game |
-| 1883000 | HEART of CROWN Online| Game |
-| 1786660 | Marimoth| Game |
-| 2076010 | UNDER NIGHT IN-BIRTH II Sys:Celes| Game |
-| 2115390 | Project Unknown| Game |
-| 2171630 | 地心归途| Game |
-| 3023490 | 牛顿第四定律| Game |
-| 2828860 | 永恒寒冬| Game |
-| 2776450 | 诸天刷宝录| Game |
-| 3061810 | 人中之龙８外传 Pirates in Hawaii| Game |
-| 2694490 | Path of Exile 2| Game |
-| 3376250 | 九球轮盘赌| Game |
+| 1149460 | 翼星求生 ICARUS| Game |
+| 1609230 | Scarlet Hollow| Game |
+| 2232880 | 灵兽江湖| Game |
+| 2884590 | 狩魔战潮| Game |
+| 2868860 | 卡牌生存：奇幻森林| Game |
+| 2955220 | 卡牌迷境| Game |
+| 2905790 | 超光速计划| Game |
+| 3376080 | 天空城幻想| Game |
 | 3393750 | 我的人生| Game |
-| 754150 | Rolling Line| Game |
 | 715010 | Diamo XL| Game |
-| 944490 | Vox Machinae Dedicated Server| Tool |
-| 955870 | 战巡大作战| Game |
