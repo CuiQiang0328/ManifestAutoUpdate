@@ -1,9 +1,11 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-03-07 21:59:18
+## 更新时间：2025-03-07 22:07:08
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 2212700 | The Book of Bondmaids - Tales| DLC |
-| 1534710 | SCP: Breakout Dedicated Server| Tool |
-| 1541640 | Cartels Dedicated Server| Tool |
-| 1549820 | Modiverse Linux Dedicated Server| Tool |
+| 1664300 | Animalia Survival Dedicated Server| Tool |
+| 1665030 | Nova-Life_GameServer| Tool |
+| 1653130 | Desperation Dedicated Server| Tool |
+| 1663160 | POW Windows Dedicated Server| Tool |
+| 1646790 | Striving for Light| Game |
+| 1769020 | Afterinfection Dedicated Server| Tool |
