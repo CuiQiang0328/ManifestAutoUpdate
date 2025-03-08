@@ -1,5 +1,6 @@
 setSkipStub(2198150)
 setSkipStub(431960)
+setSkipStub(2515020)
 --命运游戏
 setSteamId(2963550,76561198143376011)
 --命运游戏2
