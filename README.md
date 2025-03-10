@@ -1,14 +1,16 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-03-10 14:13:15
+## 更新时间：2025-03-10 16:12:54
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1809540 | 九日| Game |
-| 2103130 | 中国式相亲| Game |
-| 2544570 | LumineNight| Game |
-| 2492330 | 香蕉兄弟| Game |
-| 2501650 | Electrogical| Game |
-| 2594920 | 蕾斯莱莉娅娜的炼金工房 ～忘却的炼金术与极夜的解放者～| Game |
-| 3267430 | 遗骸| Game |
-| 3393170 | 被遗留的夜幕细语| Game |
-| 3384180 | 一个简单的扔垃圾游戏| Game |
+| 1058770 | 我来自江湖| Game |
+| 1183470 | Imperiums: Greek Wars| Game |
+| 1833540 | 群星战纪：深渊边境| Game |
+| 1974230 | Locks| Game |
+| 2288210 | 三国真龙传| Game |
+| 2443360 | Zortch| Game |
+| 2450480 | 放置修仙世界| Game |
+| 2475300 | Carmen Sandiego| Game |
+| 2246340 | Monster Hunter Wilds| Game |
+| 3294580 | 506战纪| Game |
+| 790060 | The Void Rains Upon Her Heart| Game |
