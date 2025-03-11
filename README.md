@@ -1,9 +1,14 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-03-11 12:13:24
+## 更新时间：2025-03-11 14:15:34
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 2372330 | 血之诗: 月之蚀| Game |
+| 1063730 | New World: Aeternum| Game |
+| 1809540 | 九日| Game |
+| 2288210 | 三国真龙传| Game |
+| 2286680 | PinBuilder| Game |
 | 2607060 | From Glory To Goo| Game |
-| 2828860 | 永恒寒冬| Game |
-| 2920510 | Werewolf Party| Game |
+| 3294580 | 506战纪| Game |
+| 3196570 | 轮回之境| Game |
+| 590830 | s&box| Game |
+| 798840 | 装甲纷争:决定版| Game |
